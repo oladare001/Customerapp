@@ -1,6 +1,5 @@
 pandas 
 streamlit 
-pip install matplotlib
-matplotlib.pyplot
+matplotlib
 seaborn 
 sqlite3
